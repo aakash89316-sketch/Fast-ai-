@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FAST FIGHT 1</string>
+    <string name="hero_king_of_legion">KING OF LEGION</string>
+    <string name="enemy_hong_joo">HONG-JOO</string>
+    <string name="enemy_lynx">LYNX</string>
+    <string name="enemy_butcher">BUTCHER</string>
+    <string name="enemy_shadow_emperor">SHADOW EMPEROR</string>
+    <string name="action_punch">PUNCH</string>
+    <string name="action_kick">KICK</string>
+    <string name="action_claw">CLAW</string>
+    <string name="action_block">BLOCK</string>
+    <string name="action_jump">JUMP</string>
+    <string name="action_dash">DASH</string>
+    <string name="victory_banner">YOU WIN - FAST FIGHT 1</string>
+    <string name="defeat_banner">DEFEATED - TRY AGAIN</string>
+    <string name="next_fight">NEXT FIGHT</string>
+    <string name="retry_fight">RETRY ROUND</string>
+    <string name="dojo_upgrades">DOJO UPGRADES</string>
+    <string name="sound_toggle_desc">Toggle sound effects</string>
+    <string name="shop_toggle_desc">Open dojo upgrades</string>
+    <string name="pause_toggle_desc">Pause or resume match</string>
+    <string name="reset_match_desc">Restart current round</string>
+    <string name="arena_background_desc">Moonlit dojo fighting arena background</string>
+</resources>

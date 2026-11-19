@@ -1,0 +1,6 @@
+{
+  "name": "FAST FIGHT 1",
+  "description": "Offline 60fps 2D shadow martial arts arena fighting game with combos, claw fury abilities, dojo upgrades, and AI opponents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
